@@ -7,7 +7,7 @@ import LoadingSpinner from "./components/ui/LoadingSpinner";
 import FavoritesHeader from "./components/ui/FavoritesHeader";
 
 import { useFavorites } from "./hooks/useFavorites";
-import useInfiniteScroll from './hooks/useInfiniteScroll';
+import useInfiniteScroll from './hooks/useinfiniteScoll';
 import { useImageFetch } from "./hooks/useimageFetch";
 import { CATEGORIES } from "./config/env";
 
